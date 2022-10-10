@@ -69,9 +69,11 @@ const estilos = StyleSheet.create({
         fontSize: 14,
         lineHeight: 22,
         fontWeight: 'bold',
+        color:'black',
     },
     distancia: {
         fontSize: 12,
         lineHeight: 19,
+        color:'black',
     },
 });
