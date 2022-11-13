@@ -1,6 +1,6 @@
 # ⚛️ React Native : Focado em navegação
 
-<p> Curso Alura - Com Natalia Kelim Thiel  </p>
+<p> Curso Alura - Com <a href="https://cursos.alura.com.br/course/react-native-criando-menu-navegando-telas">Natalia Kelim Thiel</a>  </p>
 
 ### :hammer: Ferramentas utilizadas
 
