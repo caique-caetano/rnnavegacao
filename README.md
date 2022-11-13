@@ -12,4 +12,4 @@
 - `Utilizar Emulador Android`
 - `Utilizar a biblioteca react-navigation`
 - `Criar uma navegação de abas inferior`
-- `Criar uma navegação de stack`: para navegar da Home para o Produtor, Cesta e Resumo (desafio).
+- `Criar uma navegação de stack`: para navegar da Home para o Produtor, Cesta e Resumo.
